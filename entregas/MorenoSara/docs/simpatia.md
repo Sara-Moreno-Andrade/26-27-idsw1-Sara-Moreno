@@ -10,9 +10,9 @@ Es la cualidad o inclinación afectiva d euna personar que despierta agrado, la 
 - *Perfil de Simpatía* (Acumulacion de las percepcionnes recibidas por el observador para determinar si el sujeto alcanza la simpatía)
 
 ## Supuestos adoptados:
-1. *Carácter relacional y subjetivo:* Simpatía no es físico ni un rasfo, sino una propiedad emergente.
-2. *Evaluación Acumulativa por Umbral:* Para considerar a alguien simpático es necesario tener varios comportamientos de este.
-3. *Dinámica y contextual:* la calificación de simpatía es varibale en el tiempo; un cambio de los comportamientos modifica las percepciones y el estatus final.
+1. **Carácter relacional y subjetivo:** Simpatía no es físico ni un rasfo, sino una propiedad emergente.
+2. **Evaluación Acumulativa por Umbral:** Para considerar a alguien simpático es necesario tener varios comportamientos de este.
+3. **Dinámica y contextual:** la calificación de simpatía es varibale en el tiempo; un cambio de los comportamientos modifica las percepciones y el estatus final.
 
 ## Justificación:
 *Separación entre acción y valoracion de aura:* La acción no contiene directamente el número de puntos que el aura otorga o resta, por que una misma acción puede dar o quitar diferente puntuaje dependiendo del tipo de Espectador.
