@@ -15,9 +15,10 @@ Es la cualidad o inclinación afectiva d euna personar que despierta agrado, la 
 3. **Dinámica y contextual:** la calificación de simpatía es varibale en el tiempo; un cambio de los comportamientos modifica las percepciones y el estatus final.
 
 ## Justificación:
-*Separación entre acción y valoracion de aura:* La acción no contiene directamente el número de puntos que el aura otorga o resta, por que una misma acción puede dar o quitar diferente puntuaje dependiendo del tipo de Espectador.
+*Separación de persona en roles según la asociación:* No crear subclases sujeto u observador, sino que una misma entidad asume ambos roles segun participe realizando el comportamiento o emitiendo la percecpción.
 
-*Modelado del Aura como entidad dinámica separada del sujeto:*  Esta vinculada 1 a 1 con sujeto ya que el aura requiere gestionar un historial de variaciones e indicadores que sorbrecargaria al sujeto.
+*Diferencicación entre la percepción y el perfil:*
+Las caloraciones puntuales se guardan en percepcion y el resultado reside en perfil para mantener la trazabilidad y desacopla la evaluación.
 
-*Inclusión de la variable negativa "Pérdida de Aura":*
-Permite que el valor del nivel del aura sea negativo para reflejar la realidad, donde el riesgo de intentaar farmer aura pueda modificar la reputación del individuo para mal.
+*Inclusión de un umbral:* el valor para defiinir la simpatia evalua mediante un número en lugar de una regla, ya que varia segun el entorno. Asi se puede adaptar a diferentes contextos sin cambiar la arquitectura conceptual.
+
